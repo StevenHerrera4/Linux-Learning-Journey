@@ -1,2 +1,24 @@
-# Linux-Learning-Journey
-Journal for my Linux experience. In this repository i will be documenting the configuration of my terminal, apps that I use in my daily activities and new things to learn Cloud.
+# Linux Learning Journey
+
+## About This Repository
+This repository documents my journey learning Linux,
+system administration, scripting, networking, and
+cloud computing.
+
+## Career Goal
+My goal is to become a Cloud Engineer by developing
+practical technical skills and building hands-on projects.
+
+## What I'm Learning
+- Linux fundamentals and terminal commands
+- System administration
+- Bash scripting and automation
+- Networking fundamentals
+- Python programming
+- Cloud computing fundamentals
+
+## Learning Progress
+I will regularly update this repository with notes,
+commands, configurations, troubleshooting experiences,
+and practical projects.
+  
