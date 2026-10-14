@@ -17,7 +17,7 @@ Pop!_OS
 Command
 
 ```bash
-# upower -i $(upower -e | grep BAT)
+upower -i $(upower -e | grep BAT)
 ```
 
 ## Result
