@@ -4,6 +4,9 @@
 
 **Operating System:** Pop!_OS 24.04 LTS (Ubuntu-based)
 
+## **Note:** If you already have this app, go to Step #2
+
+
 ## Step 1 — Install LibreOffice Math
 
 ```bash
